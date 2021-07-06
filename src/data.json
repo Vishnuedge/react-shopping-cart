@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1824340/2017/8/3/11501764560457-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-1.jpg",
+      "title": "Men Grey T-shirt with Raw Edges",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 599
+    },
+    {
+      "_id": "dress2",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1916543/2017/8/10/11502342060785-Kook-N-Keech-Women-White-Printed-Round-Neck-T-shirt-3221502342060567-1.jpg",
+      "title": "Women White Crop T-shirt",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["X", "M", "L"],
+      "price": 799
+    },
+    {
+      "_id": "dress3",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1753419/2017/6/13/11497332701241-Roadster-Women-Mustard-Solid-Boat-Neck-T-shirt-7541497332700950-1.jpg",
+      "title": "Women Yellow Boat Neck T-shirt",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["X", "M", "L"],
+      "price":1999
+    },
+    {
+      "_id": "dress4",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14028782/2021/4/22/a05ac67a-fcf9-4697-b2e1-d9202fb907131619071629366-Nike-Sportswear-Mens-T-Shirt-141619071628788-1.jpg",
+      "title": "Men White Printed Round Neck T-shirt",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL"],
+      "price": 849
+    },
+    {
+      "_id": "dress5",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11296054/2020/7/31/b80eeac4-1aa2-42f0-b111-c6452b6c670d1596182381945-Roadster-Women-Tshirts-3371596182380822-1.jpg",
+      "title": "Women Round Neck T-shirt",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 1499
+    },
+    {
+      "_id": "dress6",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12618216/2020/11/3/8fa2737f-fac8-4e84-9db4-fe504442b7d31604397248197-ADIDAS-Men-Tshirts-3551604397246889-3.jpg",
+      "title": "Men Black Training T-Shirt",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "availableSizes": ["XL", "XXL"],
+      "price": 1299
+    }
+  ]
+}
